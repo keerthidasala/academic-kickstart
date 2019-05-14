@@ -15,15 +15,15 @@ role: Graduate Student at Rice University
 # Organizations/Affiliations
 organizations:
 - name: Rice University
-  url: ""
+  url: "www.eceweb.rice.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include wireless communications and networking, high frequency cellular and WiFi networks (mmWave and THz), statistical signal processing, information theory.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 
 education:
   courses:
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
